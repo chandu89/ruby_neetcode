@@ -35,10 +35,10 @@ ruby path/to/solution.rb
   │   ├── two-sum
   │   ├── group-anagrams
   │   ├── top-k-frequent-elements
-  │   ├── linked_lists/
-  │   ├── trees/
-  │   ├── graphs/
-  │   ├── dynamic_programming/
+  │   ├── valid-palindrome
+  │   ├── container-with-most-water
+  │   ├── best-time-to-buy-and-sell-stock
+  │   ├── longest-substring-without-repeating-characters
   │   ├── greedy/
   │   ├── intervals/
   │   ├── math_and_geometry/
