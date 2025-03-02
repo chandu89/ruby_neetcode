@@ -42,6 +42,8 @@ ruby path/to/solution.rb
   │   ├── longest-repeating-character-replacement
   │   ├── valid-parentheses
   │   ├── find-minimum-in-rotated-sorted-array
+  │   ├── reverse-linked-list
+  │   └── merge-two-sorted-lists
   │   └── 
   │
   ├── neetcode_150/
