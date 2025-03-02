@@ -39,10 +39,10 @@ ruby path/to/solution.rb
   │   ├── container-with-most-water
   │   ├── best-time-to-buy-and-sell-stock
   │   ├── longest-substring-without-repeating-characters
-  │   ├── greedy/
-  │   ├── intervals/
-  │   ├── math_and_geometry/
-  │   └── bit_manipulation/
+  │   ├── longest-repeating-character-replacement
+  │   ├── valid-parentheses
+  │   ├── find-minimum-in-rotated-sorted-array
+  │   └── 
   │
   ├── neetcode_150/
   │   ├── categorized_by_topic/
